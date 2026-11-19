@@ -26,18 +26,10 @@ Viaje_Aventura_Saavedra/
 ├── .gitignore
 ├── .env.example
 ├── docs/
-│   └── README.md
 ├── src/
-│   ├── __init__.py
 │   ├── main.py
 │   └── persistence/
-│       ├── __init__.py
 │       ├── connection.py
-│       ├── database.py
-│       └── schema.sql
-└── tests/
-    ├── __init__.py
-    └── test_database.py
 ```
 
 ## Ejecución
