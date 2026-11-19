@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Viajes Aventura local data
+.env
+*.db
+*.db-journal
+*.sqlite3
+__pycache__/
